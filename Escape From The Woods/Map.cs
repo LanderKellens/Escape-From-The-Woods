@@ -8,6 +8,7 @@ namespace Escape_From_The_Woods
     {
         public int x;
         public int y;
+        public int ID;
 
         public List<Tree> bomen = new List<Tree>();
         public List<Monkey> apen = new List<Monkey>();
